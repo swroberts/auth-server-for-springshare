@@ -16,12 +16,12 @@
     },
     "LIBGUIDES_CLIENT_ID": {
       "description": "Likely a 3 digit number. Can be found in the LibGuides API interface under the Authentication tab.",
-      "required": true
+      "required": false
     },
     "LIBGUIDES_CLIENT_SECRET": {
       "description":
         "A big long bit of gibberish. Can be found in the LibGuides API interface under the Authentication tab.",
-      "required": true
+      "required": false
     }
   }
 }
